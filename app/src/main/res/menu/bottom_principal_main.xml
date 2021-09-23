@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_home_24"
+        android:title="Home"
+    />
+    <item
+        android:id="@+id/ic_cidade"
+        android:icon="@drawable/ic_map_24"
+        android:title="Cidades"
+        />
+    <item
+        android:id="@+id/ic_dicas"
+        android:icon="@drawable/ic_masks_24"
+        android:title="Dicas"
+        />
+    <item
+        android:id="@+id/ic_noticias"
+        android:icon="@drawable/ic_baseline_fiber_new_24"
+        android:title="Notícias"
+        />
+    <item
+        android:id="@+id/ic_informacao"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Info"
+        />
+
+
+</menu>
